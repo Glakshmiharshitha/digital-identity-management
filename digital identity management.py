@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import hashlib
 import random
 
@@ -57,7 +51,6 @@ if __name__ == "__main__":
         print("Login failed. Incorrect password.")
 
 
-# In[ ]:
 
 
 
